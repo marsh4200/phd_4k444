@@ -1,11 +1,10 @@
-Custom Home Assistant integration for the PHD SOLUTIONS 4K444 HDMI Matrix Switch. ROUTING AND POWER ONLY
 
-Home Assistant integration for the PHD 4K444 HDMI Matrix
 
 🟣 PHD 4K444 HDMI Matrix Integration for Home Assistant
 Custom Home Assistant integration by marsh4200 for controlling and monitoring the PHD 4K444 HDMI Matrix Switch.
 This integration communicates directly with the matrix over TCP (port 23) to manage power, input routing, and device state — all from Home Assistant.
-
+ ROUTING AND POWER ONLY
+ 
 ✨ Features
 ✅ Power ON / OFF control
 ✅ Power status sensor (real-time state feedback)
