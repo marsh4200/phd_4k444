@@ -1,0 +1,10 @@
+{
+  "name": "PHD 4K444 Matrix",
+  "content_in_root": false,
+  "domains": [
+    "phd_4k444"
+  ],
+  "homeassistant": "2023.0.0",
+  "render_readme": true,
+  "country": "ZA"
+}
