@@ -1,0 +1,3 @@
+DOMAIN = "phd_4k444"
+DEFAULT_HOST = ""
+DEFAULT_PORT = 23

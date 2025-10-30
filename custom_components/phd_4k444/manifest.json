@@ -1,0 +1,16 @@
+{
+  "domain": "phd_4k444",
+  "name": "PHD 4K444 Matrix",
+  "version": "4.1.0",
+  "config_flow": true,
+  "documentation": "",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [
+    "@marsh4200"
+  ],
+  "iot_class": "local_polling",
+  "platforms": [
+    "switch"
+  ]
+}
