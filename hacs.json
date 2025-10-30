@@ -1,11 +1,10 @@
 {
   "name": "PHD 4K444 Matrix",
   "content_in_root": false,
-  "domains": ["phd_4k444"],
-  "homeassistant": "2024.6.0",
+  "domains": [
+    "phd_4k444"
+  ],
+  "homeassistant": "2023.0.0",
   "render_readme": true,
-  "country": "ZA",
-  "render_readme": true,
-  "iot_class": "local_polling",
-  "filename": "phd_4k444.zip"
+  "country": "ZA"
 }
