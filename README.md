@@ -1,5 +1,4 @@
-#PHD SOLUTIONS phd_4k444 Matrix Switch 4X4 
-Custom Home Assistant integration for the PHD 4K444 HDMI Matrix Switch. ROUTING AND POWER ONLY
+Custom Home Assistant integration for the PHD SOLUTIONS 4K444 HDMI Matrix Switch. ROUTING AND POWER ONLY
 
 Home Assistant integration for the PHD 4K444 HDMI Matrix
 
