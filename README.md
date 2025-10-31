@@ -18,7 +18,7 @@ Click Add, then search for PHD 4K444 Matrix in HACS.
 Click Install and restart Home Assistant.
 Add the integration in Settings → Devices & Services → Add Integration → PHD 4K444 Matrix.
 When adding the integration, enter:  Example Host	IP address of your matrix	192.168.45.11
-Port	Control port
+Port	Control port (default) 23
 
 🎛️ PHD 4K444 Matrix Control Panel
 
