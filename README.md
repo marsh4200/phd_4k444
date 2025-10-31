@@ -1,5 +1,8 @@
 # 🟣 PHD 4K444 HDMI Matrix — Home Assistant Integration
 
+[![Add to HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=marsh4200&repository=phd_4k444&category=integration)
+
+
 A custom [Home Assistant](https://www.home-assistant.io/) integration by **@marsh4200** for controlling and monitoring the **PHD 4K444 HDMI Matrix Switch**.  
 This integration communicates directly with the matrix over **TCP (port 23)** to manage **power** and **HDMI routing** — fully **local** with **no cloud dependency**.
 
