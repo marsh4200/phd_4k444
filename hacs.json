@@ -7,4 +7,5 @@
   "homeassistant": "2023.0.0",
   "render_readme": true,
   "country": "ZA"
+  "version": "0.0.1"
 }
