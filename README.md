@@ -44,8 +44,8 @@ This integration communicates directly with the matrix over **TCP (port 23)** to
 
 | Entity | Type | Description |
 |---------|------|-------------|
-| `switch.phd_4k444_power` | Switch | Toggle matrix power |
-| `sensor.phd_4k444_power_status` | Sensor | Displays power state (ON/OFF) |
+|                | Switch | Toggle matrix power |
+|                | Sensor | Displays power state (ON/OFF) |
 
 > 💡 Additional routing entities are created for each input → output combination (16 total).
 
